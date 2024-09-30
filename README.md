@@ -2,6 +2,8 @@
 <p>This is a static page of Zomato(Food delivery app) developed using HTML and CSS </p>
 <p>Time taken : 20-30mins.</p>
 
+<h1>Result : https://lovely-bavarois-1576c1.netlify.app</h1>
+
 
 <h1>How to Clone This Repository</h1>
 
